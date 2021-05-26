@@ -1,2 +1,2 @@
 # labTask-6
-##Upload Software task
+## Upload Software task
